@@ -1,4 +1,4 @@
-### BeautifulSoup, Selenium을 활용한 야놀자, 네이버 크롤링 및 야놀자 크롤링 데이터 시각화
+### BeautifulSoup4, Selenium을 활용한 야놀자, 네이버 크롤링 및 Seaborn, Tableau를 활용한 야놀자 크롤링 데이터 시각화
 
 ### 프로젝트 개요
 
